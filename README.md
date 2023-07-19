@@ -7,7 +7,7 @@ Note: Before I begin, I want to admit that I made a mistake by not seeking permi
 
 <h3>Target: https://payment.*****.ac.in</h3>
 
-***Phase 1** - Gathering Information: First, I looked into the website (https://*****.ac.in) to learn more about it. I checked out things like sub-domains, directories, old URLs, and some other details like IP addresses and mail servers.
+<b>Phase 1</b> - Gathering Information: First, I looked into the website (https://*****.ac.in) to learn more about it. I checked out things like sub-domains, directories, old URLs, and some other details like IP addresses and mail servers.
 
 Interesting Find: During my exploration, I found a link to a file with a .zip extension. It caught my attention, and I wanted to see what was inside.
 
