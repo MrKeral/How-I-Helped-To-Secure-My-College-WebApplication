@@ -5,9 +5,9 @@ Let see how I found Critical information on my college website's subdomain.
 
 Note: Before I begin, I want to admit that I made a mistake by not seeking permission from the right people before checking out the website. It's not okay, and I strongly advise against trying anything like this without permission. My story is just to show the importance of reporting vulnerabilities responsibly and being ethical online.
 
-<h3>Target</h3>: https://payment.*****.ac.in
+<h3>Target: https://payment.*****.ac.in</h3>
 
-Phase 1 - Gathering Information: First, I looked into the website (https://*****.ac.in) to learn more about it. I checked out things like sub-domains, directories, old URLs, and some other details like IP addresses and mail servers.
+***Phase 1 - Gathering Information: First, I looked into the website (https://*****.ac.in) to learn more about it. I checked out things like sub-domains, directories, old URLs, and some other details like IP addresses and mail servers.
 
 Interesting Find: During my exploration, I found a link to a file with a .zip extension. It caught my attention, and I wanted to see what was inside.
 
