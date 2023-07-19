@@ -19,8 +19,10 @@ Note: Before I begin, I want to admit that I made a mistake by not seeking permi
 ![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/c159083d-5b54-4472-a23e-8274386acda0)
 
 
-<b>Surprising Discoveries:</b> Inside the .zip file, I found three files - ccavRequestHandler.php, ccavResponsetHandler.php, and config.php. These files had sensitive information like usernames and passwords for the PHPMYADMIN database. I also came across some email addresses of employees in the payment department.
+<b>Surprising Discoveries:</b> Inside the .zip file, I found three files - ccavRequestHandler.php, ccavResponsetHandler.php, and config.php. These files had sensitive information like usernames and passwords for the PHPMYADMIN database. 
 ![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/54ced9fc-b5e9-4c1f-86be-c84da6f65f61)
+
+I also came across some email addresses of employees in the payment department.
 ![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/9816c388-9ede-4f42-805a-3c1ae282829b)
 
 
