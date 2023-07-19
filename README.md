@@ -16,8 +16,13 @@ Note: Before I begin, I want to admit that I made a mistake by not seeking permi
 <b>Being Responsible:</b> I won't explain how I bypassed the WAF here because it's still a vulnerable spot on the website.
 
 <b>Phase 2 - Downloading the .zip File:</b> With the WAF bypassed, I was able to download the mysterious .zip file called payment.*****.ac.in.zip.
+![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/c159083d-5b54-4472-a23e-8274386acda0)
+
 
 <b>Surprising Discoveries:</b> Inside the .zip file, I found three files - ccavRequestHandler.php, ccavResponsetHandler.php, and config.php. These files had sensitive information like usernames and passwords for the PHPMYADMIN database. I also came across some email addresses of employees in the payment department.
+![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/54ced9fc-b5e9-4c1f-86be-c84da6f65f61)
+![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/9816c388-9ede-4f42-805a-3c1ae282829b)
+
 
 <b>Stopping the Hunt:</b> At this point, I realized I had found critical information and decided not to continue. It was essential to do the right thing.
 
