@@ -1,7 +1,7 @@
 # How-I-Hacked-My-College-Website
 <h2>Welcome!!!</h2>
 
-Let see how I found Critical information on my college website's subdomain.
+<h3><b>Let see how I uncovered critical information on my college website.</b></h3>
 
 Note: Before I begin, I want to admit that I made a mistake by not seeking permission from the right people before checking out the website. It's not okay, and I strongly advise against trying anything like this without permission. My story is just to show the importance of reporting vulnerabilities responsibly and being ethical online.
 
