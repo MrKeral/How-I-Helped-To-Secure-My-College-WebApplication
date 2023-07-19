@@ -16,4 +16,15 @@ So now I search on google that "How to bypass ModSecurity WAF" & watch some vide
 I can't show that how I bypass WAF, because it is still vulnerable.....
 
 Now I'm able to download that .zip file : payment.*****.ac.in.zip
-![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/2aa778ea-7aef-453e-a871-60aef706a0db)
+![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/2aa778ea-7aef-453e-a871-60aef706a0db) 
+
+While reading every file, there is three files(ccavRequestHandler.php, ccavResponsetHandler.php, config.php) where I got the username & password of the database. Oviously PHPMYADMIN.
+![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/b0f8f179-e95c-4ce7-8849-9832e96134ef)
+
+And here information disclouser is also done, becuse I got some mail IDs of payment department employees.
+![image](https://github.com/MrKeral/How-I-Hacked-My-College-Website/assets/82687464/5db493dc-debb-4960-b7f0-2d5352ba159a)
+
+Now I stop hunting beacuse I got critical information. So now I reported to HoD & Dean of my college..
+
+That's all...
+
