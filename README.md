@@ -28,6 +28,6 @@ I also came across some email addresses of employees in the payment department.
 
 <b>Stopping the Hunt:</b> At this point, I realized I had found critical information and decided not to continue. It was essential to do the right thing.
 
-<b>Doing the Responsible Thing:</b> I reported my findings to the Head of the Department (HoD) and the Dean of my college so they could take appropriate action.
+<b>Doing the Responsible Thing:</b> I reported my findings to the Head of the Department (HoD) and the Dean of my department so they could take appropriate action.
 
 <b>Conclusion:</b> My story reminds us all about the importance of being ethical and responsible online. Unauthorized hacking is not only wrong but also illegal. Always ask for permission before testing security, and if you find any issues, report them to the right people. Together, we can make the internet safer for everyone.
