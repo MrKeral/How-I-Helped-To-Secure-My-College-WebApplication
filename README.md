@@ -1,7 +1,7 @@
 # How-I-Helped-To-Secure-My-College-WebApplication
 <h2>Welcome!!!</h2>
 
-<h3><b>Let see how I uncovered critical information on my college website.</b></h3>
+<h3><b>Let see how I uncovered critical information on my college web application.</b></h3>
 
 Note: Before I begin, I want to admit that I made a mistake by not seeking permission from the right people before checking out the website. It's not okay, and I strongly advise against trying anything like this without permission. My story is just to show the importance of reporting vulnerabilities responsibly and being ethical online.
 
