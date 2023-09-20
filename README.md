@@ -1,4 +1,4 @@
-# How-I-Hacked-My-College-Website
+# How-I-Helped-To-Secure-My-College-WebApplication
 <h2>Welcome!!!</h2>
 
 <h3><b>Let see how I uncovered critical information on my college website.</b></h3>
